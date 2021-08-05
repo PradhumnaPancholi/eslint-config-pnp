@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-react",
+  "name": "@building-bloks/eslint-config-react",
   "version": "1.0.0",
   "description": "Eslint and prettier config for React applications",
   "main": "index.js",
